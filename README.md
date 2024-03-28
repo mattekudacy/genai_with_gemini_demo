@@ -1,12 +1,34 @@
-# Building LLMs with Google AI Studio and Gemini API
-Talk Date: April 17, 2024
-
+# Talk Title: Building LLMs with Google AI Studio and Gemini API
+Talk Date: April 17, 2024 @ NU Manila 
+<br>
+<br>
+<img src="img/demo1.PNG?raw=true" alt="Demo 1"/> <img src="img/demo2.PNG?raw=true" alt="Demo 2"/>
+<br>
 To get started with the project:
 1. Clone the project.
 ```
 git clone https://github.com/mattekudacy/genai_with_gemini_demo.git
 ```
-
 2. Generate your API key throught the Google AI Studio -> Get API Key -> Create API Key
-3. Create a new folder in you projects <code>"./streamlit"</code>, and create a new file called <code>secrets.toml</code>. Create a variable named <code> YOUR_API_KEY </code> and paste your API Key.
-4. Enjoy!
+<img src="img/api.PNG?raw=true" alt="Demo 1"/>
+4. Create a new folder in you projects <code>"./streamlit"</code>, and create a new file called <code>secrets.toml</code>. Create a variable named <code> YOUR_API_KEY </code> and paste your API Key.
+
+```bash
+├── gemini_api
+│   ├── ./streamlit
+│   │   ├── secrets.toml
+│   ├── geminibot.py
+│   ├── recipai.py
+│   ├── demo1.jpg
+```
+
+6. To run the project:
+```
+streamlit run geminibot.py
+```
+```
+streamlit run recipai.py
+```
+
+7. Enjoy!
+
