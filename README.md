@@ -1,4 +1,5 @@
 # Talk Title: Building LLMs with Google AI Studio and Gemini API
+By: Cyrus Mante
 Talk Date: April 17, 2024 @ NU Manila 
 <br>
 <br>
