@@ -3,10 +3,11 @@ By: Cyrus Mante
 <br>
 Talk Date: April 17, 2024 @ NU Manila 
 <br>
-<br>
+[Access slide deck here](https://docs.google.com/presentation/d/1XdJiOpvkTRIT5wa1kVZ0TmFJS4LAVvdJe-RGrU6HWLI/edit?usp=sharing)
+## Project Demo
 <img src="img/demo1.PNG?raw=true" alt="Demo 1"/> <img src="img/demo2.PNG?raw=true" alt="Demo 2"/>
 <br>
-To get started with the project:
+## To get started with the project:
 1. Clone the project.
 ```
 git clone https://github.com/mattekudacy/genai_with_gemini_demo.git
