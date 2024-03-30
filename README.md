@@ -17,7 +17,7 @@ git clone https://github.com/mattekudacy/genai_with_gemini_demo.git
 pip install requirements.txt
 ```
 
-3. Generate your API key throught the Google AI Studio -> Get API Key -> Create API Key
+3. Generate your API key through Google AI Studio -> Get API Key -> Create API Key
 <img src="img/api.PNG?raw=true" alt="Demo 1"/>
 
 4. Create a new folder in you projects <code>"./streamlit"</code>, and create a new file called <code>secrets.toml</code>. Create a variable named <code> YOUR_API_KEY </code> and paste your API Key.
