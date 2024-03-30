@@ -41,3 +41,5 @@ streamlit run recipai.py
 
 7. Enjoy!
 
+Explore more about the Gemini API by reading the [documentation](https://ai.google.dev/docs).
+
