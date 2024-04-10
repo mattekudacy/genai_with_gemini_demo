@@ -5,7 +5,7 @@ Talk Date: April 17, 2024 @ NU Manila
 <br>
 [Access slide deck here](https://docs.google.com/presentation/d/1XdJiOpvkTRIT5wa1kVZ0TmFJS4LAVvdJe-RGrU6HWLI/edit?usp=sharing)
 ## Project Demo
-<img src="img/demo1.PNG?raw=true" alt="Demo 1"/> <img src="img/demo2.PNG?raw=true" alt="Demo 2"/>
+<img src="img/demo1.PNG?raw=true" alt="Demo 1"/> <img src="img/demo2.PNG?raw=true" alt="Demo 2"/> <img src="img/demo3.PNG?raw=true" alt="Demo 3"/>
 <br>
 ## To get started with the project:
 1. Clone the project.
@@ -28,6 +28,7 @@ pip install requirements.txt
 │   │   ├── secrets.toml
 │   ├── geminibot.py
 │   ├── recipai.py
+│   ├── summarize_audio.py
 │   ├── demo1.jpg
 ```
 
@@ -37,6 +38,9 @@ streamlit run geminibot.py
 ```
 ```
 streamlit run recipai.py
+```
+```
+streamlit run summarize_audio.py
 ```
 
 7. Enjoy!
